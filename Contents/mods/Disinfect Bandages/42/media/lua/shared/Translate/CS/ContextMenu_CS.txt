@@ -1,0 +1,6 @@
+ContextMenu_CS = {
+    ContextMenu_Disinfect = "Dezinfikovat",
+    ContextMenu_Disinfect_One = "Dezinfikovat Jeden",
+    ContextMenu_Disinfect_AllBandage = "Dezinfikovat Všechny Obvazy",
+    ContextMenu_Disinfect_OneBandage = "Dezinfikovat Jeden Obvaz",
+} 

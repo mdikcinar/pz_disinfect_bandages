@@ -1,0 +1,6 @@
+ContextMenu_RO = {
+    ContextMenu_Disinfect = "Dezinfectează",
+    ContextMenu_Disinfect_One = "Dezinfectează Unul",
+    ContextMenu_Disinfect_AllBandage = "Dezinfectează Toate Bandajele",
+    ContextMenu_Disinfect_OneBandage = "Dezinfectează Un Bandaj",
+} 

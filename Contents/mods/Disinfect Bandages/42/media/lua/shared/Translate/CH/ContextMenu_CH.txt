@@ -1,0 +1,6 @@
+ContextMenu_CH = {
+    ContextMenu_Disinfect = "消毒",
+    ContextMenu_Disinfect_One = "消毒一個",
+    ContextMenu_Disinfect_AllBandage = "消毒所有繃帶",
+    ContextMenu_Disinfect_OneBandage = "消毒一個繃帶",
+} 

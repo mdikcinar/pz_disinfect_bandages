@@ -1,0 +1,6 @@
+ContextMenu_ID = {
+    ContextMenu_Disinfect = "Disinfeksi",
+    ContextMenu_Disinfect_One = "Disinfeksi Satu",
+    ContextMenu_Disinfect_AllBandage = "Disinfeksi Semua Perban",
+    ContextMenu_Disinfect_OneBandage = "Disinfeksi Satu Perban",
+} 

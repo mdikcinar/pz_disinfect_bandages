@@ -1,0 +1,6 @@
+ContextMenu_JP = {
+    ContextMenu_Disinfect = "消毒する",
+    ContextMenu_Disinfect_One = "一つを消毒する",
+    ContextMenu_Disinfect_AllBandage = "すべての包帯を消毒する",
+    ContextMenu_Disinfect_OneBandage = "1つの包帯を消毒する",
+} 

@@ -1,0 +1,6 @@
+ContextMenu_FI = {
+    ContextMenu_Disinfect = "Desinfioi",
+    ContextMenu_Disinfect_One = "Desinfioi %1",
+    ContextMenu_Disinfect_AllBandage = "Desinfioi Kaikki Siteet",
+    ContextMenu_Disinfect_OneBandage = "Desinfioi Yksi Side",
+} 

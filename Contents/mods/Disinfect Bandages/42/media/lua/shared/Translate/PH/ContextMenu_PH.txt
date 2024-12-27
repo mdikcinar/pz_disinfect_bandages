@@ -1,0 +1,6 @@
+ContextMenu_PH = {
+    ContextMenu_Disinfect = "I-disinfect",
+    ContextMenu_Disinfect_One = "I-disinfect ang Isa",
+    ContextMenu_Disinfect_AllBandage = "I-disinfect Lahat ng Bendahe",
+    ContextMenu_Disinfect_OneBandage = "I-disinfect ang Isang Bendahe",
+} 

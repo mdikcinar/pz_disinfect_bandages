@@ -1,0 +1,6 @@
+ContextMenu_PL = {
+    ContextMenu_Disinfect = "Zdezynfekuj",
+    ContextMenu_Disinfect_One = "Zdezynfekuj Jeden",
+    ContextMenu_Disinfect_AllBandage = "Zdezynfekuj Wszystkie Bandaże",
+    ContextMenu_Disinfect_OneBandage = "Zdezynfekuj Jeden Bandaż",
+} 

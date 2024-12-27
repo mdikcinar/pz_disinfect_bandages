@@ -1,0 +1,6 @@
+version=1
+id=3393438762
+title=Sterilize | Disinfect Bandages & Rags [B42]
+description=This mod brings back the ability to sterilize bandages and rags by boiling them in a pot of water using an oven. A simple yet realistic way to disinfect your medical supplies in the zombie apocalypse. Perfect for survival and medical roleplay!
+tags=Build 42;Realistic
+visibility=public

@@ -1,0 +1,6 @@
+ContextMenu_TR = {
+    ContextMenu_Disinfect = "Dezenfekte Et",
+    ContextMenu_Disinfect_One = "Birini Dezenfekte Et",
+    ContextMenu_Disinfect_AllBandage = "Tüm Bandajları Dezenfekte Et",
+    ContextMenu_Disinfect_OneBandage = "Bir Bandajı Dezenfekte Et",
+} 

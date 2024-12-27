@@ -1,0 +1,6 @@
+ContextMenu_CA = {
+    ContextMenu_Disinfect = "Desinfectar",
+    ContextMenu_Disinfect_One = "Desinfectar Un",
+    ContextMenu_Disinfect_AllBandage = "Desinfectar Tots els Embenatges",
+    ContextMenu_Disinfect_OneBandage = "Desinfectar Un Embenatge",
+} 

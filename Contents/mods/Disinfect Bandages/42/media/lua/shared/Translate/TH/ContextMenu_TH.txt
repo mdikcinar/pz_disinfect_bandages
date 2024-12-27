@@ -1,0 +1,6 @@
+ContextMenu_TH = {
+    ContextMenu_Disinfect = "ฆ่าเชื้อ",
+    ContextMenu_Disinfect_One = "ฆ่าเชื้อหนึ่งชิ้น",
+    ContextMenu_Disinfect_AllBandage = "ฆ่าเชื้อผ้าพันแผลทั้งหมด",
+    ContextMenu_Disinfect_OneBandage = "ฆ่าเชื้อผ้าพันแผลหนึ่งชิ้น",
+} 

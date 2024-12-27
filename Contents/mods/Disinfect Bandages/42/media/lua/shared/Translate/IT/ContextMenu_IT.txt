@@ -1,0 +1,6 @@
+ContextMenu_IT = {
+    ContextMenu_Disinfect = "Disinfetta",
+    ContextMenu_Disinfect_One = "Disinfetta Uno",
+    ContextMenu_Disinfect_AllBandage = "Disinfetta Tutte le Bende",
+    ContextMenu_Disinfect_OneBandage = "Disinfetta Una Benda",
+} 

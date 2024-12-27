@@ -1,0 +1,6 @@
+ContextMenu_HU = {
+    ContextMenu_Disinfect = "Fertőtlenítés",
+    ContextMenu_Disinfect_One = "%1 Fertőtlenítése",
+    ContextMenu_Disinfect_AllBandage = "Minden Kötszer Fertőtlenítése",
+    ContextMenu_Disinfect_OneBandage = "Egy Kötszer Fertőtlenítése",
+} 

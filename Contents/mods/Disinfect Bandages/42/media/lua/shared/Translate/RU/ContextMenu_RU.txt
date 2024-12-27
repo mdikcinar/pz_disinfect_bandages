@@ -1,0 +1,6 @@
+ContextMenu_RU = {
+    ContextMenu_Disinfect = "Дезинфицировать",
+    ContextMenu_Disinfect_One = "Дезинфицировать Один",
+    ContextMenu_Disinfect_AllBandage = "Дезинфицировать Все Бинты",
+    ContextMenu_Disinfect_OneBandage = "Дезинфицировать Один Бинт",
+} 
